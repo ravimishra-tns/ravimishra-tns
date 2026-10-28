@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,28,42&height=260&section=header&text=Ravi%20Mishra&fontSize=48&fontAlignY=36&animation=twinkling&desc=Senior%20DevSecOps%20%7C%20Enterprise%20Cloud%20Architect%20%7C%20Technical%20Lead&descFontSize=20&descAlignY=58" width="100%" alt="Ravi Mishra Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,28,42&height=260&section=header&text=Ravi%20Shanker%20Mishra&fontSize=42&fontAlignY=36&animation=twinkling&desc=Senior%20DevOps%20Engineer%20%7C%20Enterprise%20Cloud%20Architect%20%7C%20Technical%20Lead&descFontSize=19&descAlignY=58" width="100%" alt="Ravi Shanker Mishra Banner" />
 
 <!-- Dynamic Animated Typing Line -->
 <a href="https://github.com/ravimishra-tns">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=5%2B+Years+Architecting+Enterprise+Cloud+Landing+Zones+(CAF);Migrating+100%2B+Workloads+From+On-Prem+to+Resilient+Multi-Cloud;DevSecOps+Pipeline+Automation+%26+Terraform+Drift+Detection;Enterprise+Governance%2C+Zero-Trust+Networking+%26+FinOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Ravi+Shanker+Mishra;Senior+DevOps+Engineer;5%2B+Years+Architecting+Enterprise+Cloud+Landing+Zones+(CAF);Migrating+100%2B+Workloads+From+On-Prem+to+Resilient+Multi-Cloud;DevOps+Pipeline+Automation+%26+Terraform+Drift+Detection;Enterprise+Governance%2C+Zero-Trust+Networking+%26+FinOps" alt="Typing SVG" />
 </a>
 
 <!-- Quick Executive Status Badges -->
@@ -43,13 +43,14 @@
 
 ### 🏛️ Executive Profile & Leadership Vision
 
-Results-driven **Senior DevSecOps & Enterprise Cloud Infrastructure Architect (5+ YOE)** with proven expertise leading end-to-end cloud transformations, architecting **Azure Cloud Adoption Framework (CAF) Landing Zones**, and spearheading large-scale migrations of **100+ applications across Dev, UAT, and Production**.
+Results-driven **Senior DevOps Engineer & Enterprise Cloud Infrastructure Architect (5+ YOE)** with proven expertise leading end-to-end cloud transformations, architecting **Azure Cloud Adoption Framework (CAF) Landing Zones**, and spearheading large-scale migrations of **100+ applications across Dev, UAT, and Production**.
 
 Combining **deep technical engineering** (Terraform, Kubernetes, Shift-Left Security, Hub & Spoke Networking) with **strategic delivery governance** (FinOps, BCDR, Vendor Management, RFP/SOW estimations, and Team Mentorship).
 
 ```yaml
 enterprise_profile:
-  candidate: "Ravi Mishra"
+  candidate: "Ravi Shanker Mishra"
+  role: "Senior DevOps Engineer"
   specialization: "Enterprise Cloud Architecture, DevSecOps & Infra as Code"
   experience: "5+ Years In Production Environments"
   key_achievements:
@@ -197,7 +198,7 @@ enterprise_profile:
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ravimishra-tns&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=94A3B8&icon_color=00D2FF" alt="Ravi's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ravimishra-tns&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=94A3B8&icon_color=00D2FF" alt="Ravi Shanker Mishra's GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravimishra-tns&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak Stats" />

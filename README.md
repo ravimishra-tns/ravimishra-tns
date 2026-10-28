@@ -5,14 +5,14 @@
 
 <!-- Dynamic Animated Typing Line -->
 <a href="https://github.com/ravimishra-tns">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Ravi+Shanker+Mishra;Senior+DevOps+Engineer;5%2B+Years+Architecting+Enterprise+Cloud+Landing+Zones+(CAF);Migrating+100%2B+Workloads+From+On-Prem+to+Resilient+Multi-Cloud;DevOps+Pipeline+Automation+%26+Terraform+Drift+Detection;Enterprise+Governance%2C+Zero-Trust+Networking+%26+FinOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Ravi+Shanker+Mishra;Senior+DevOps+Engineer;5%2B+Years+Architecting+Enterprise+Cloud+Landing+Zones+(CAF);Migrating+25%2B+Workloads+From+On-Prem+to+Resilient+Multi-Cloud;DevOps+Pipeline+Automation+%26+Terraform+Drift+Detection;Enterprise+Governance%2C+Zero-Trust+Networking+%26+FinOps" alt="Typing SVG" />
 </a>
 
 <!-- Quick Executive Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS%20PROD-00D2FF?style=for-the-badge&labelColor=0d1117&color=0072FF" alt="5+ YOE" />
   <img src="https://img.shields.io/badge/ARCHITECTURE-AZURE%20LANDING%20ZONES%20(CAF)-0078D4?style=for-the-badge&labelColor=0d1117&color=0078D4" alt="CAF Badge" />
-  <img src="https://img.shields.io/badge/MIGRATION-100%2B%20APPS%20HYBRID%20CLOUD-10B981?style=for-the-badge&labelColor=0d1117&color=10B981" alt="Migration Badge" />
+  <img src="https://img.shields.io/badge/MIGRATION-25%2B%20ENTERPRISE%20WORKLOADS-10B981?style=for-the-badge&labelColor=0d1117&color=10B981" alt="Migration Badge" />
   <img src="https://img.shields.io/badge/SECURITY-ZERO--TRUST%20%26%20GOVERNANCE-7928CA?style=for-the-badge&labelColor=0d1117&color=7928CA" alt="Security Badge" />
 </p>
 
@@ -43,7 +43,7 @@
 
 ### 🏛️ Executive Profile & Leadership Vision
 
-Results-driven **Senior DevOps Engineer & Enterprise Cloud Infrastructure Architect (5+ YOE)** with proven expertise leading end-to-end cloud transformations, architecting **Azure Cloud Adoption Framework (CAF) Landing Zones**, and spearheading large-scale migrations of **100+ applications across Dev, UAT, and Production**.
+Results-driven **Senior DevOps Engineer & Enterprise Cloud Infrastructure Architect (5+ YOE)** with proven expertise leading end-to-end cloud transformations, architecting **Azure Cloud Adoption Framework (CAF) Landing Zones**, and spearheading large-scale migrations of **25+ mission-critical workloads across Dev, UAT, and Production**.
 
 Combining **deep technical engineering** (Terraform, Kubernetes, Shift-Left Security, Hub & Spoke Networking) with **strategic delivery governance** (FinOps, BCDR, Vendor Management, RFP/SOW estimations, and Team Mentorship).
 
@@ -55,7 +55,7 @@ enterprise_profile:
   experience: "5+ Years In Production Environments"
   key_achievements:
     - "Architected multi-tier Landing Zones with Root/Platform/Application Management Groups"
-    - "Orchestrated zero-downtime migration of 100+ enterprise workloads from on-prem datacenters"
+    - "Orchestrated zero-downtime migration of 25+ enterprise workloads from on-prem to cloud"
     - "Automated Terraform Landing Zones with drift detection, secret scanning & policy gates"
     - "Enforced Cloud FinOps resulting in 30%+ reduction in wasted compute & storage spend"
     - "Engineered resilient BCDR frameworks with granular RTO/RPO SLA guarantees"
@@ -86,7 +86,7 @@ enterprise_profile:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 3. 100+ Enterprise App Migration & Modernization</h4>
+      <h4>🚀 3. Enterprise Workload Migration & Modernization</h4>
       <ul>
         <li><b>Methodology & 6Rs:</b> End-to-end execution of discovery, TCO assessment, Wave Planning, and cutover strategy.</li>
         <li><b>Checklist Governance:</b> Rigorous pre-migration readiness, during-cutover coordination, post-migration health checks, and hypercare support.</li>
